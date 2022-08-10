@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # asdf-plugin: elixir 1.12.1-otp-24
 # asdf-plugin: elixir 1.13.1-otp-24
-exec /home/philip/.asdf/bin/asdf exec "plds" "$@"
+exec "$HOME/.asdf/bin/asdf" exec "plds" "$@"
